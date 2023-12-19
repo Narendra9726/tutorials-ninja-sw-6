@@ -98,3 +98,52 @@
 2023-12-19 19:12:407 INFO  HomePage :109 - mouse hover on componentsLink and click.
 2023-12-19 19:12:557 INFO  HomePage :74 - Selecting a topMenu: Show AllComponents
 2023-12-19 19:12:231 INFO  HomePage :114 - Getting text from: [[ChromeDriver: chrome on windows (3cdaff2038c902c22c5164409ccf6575)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-19 22:12:102 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:260 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:64 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (053104c37affbfd752110365324c77c8)] -> id: input-sort]
+2023-12-19 22:12:470 INFO  DesktopsPage :235 - Displaying products in descending order
+2023-12-19 22:12:797 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (3dafd988dba951d4c66a727fa769314a)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:376 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:520 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:969 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (3dafd988dba951d4c66a727fa769314a)] -> id: input-sort]
+2023-12-19 22:12:955 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (99cc4f73249293111c4f913c296ce7bd)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:475 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:648 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:738 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (99cc4f73249293111c4f913c296ce7bd)] -> id: input-sort]
+2023-12-19 22:12:596 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (031e398bf7b87d062c6b754851b80b2f)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:233 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:382 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:412 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (031e398bf7b87d062c6b754851b80b2f)] -> id: input-sort]
+2023-12-19 22:12:346 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (22caf5db5bd773015b08967a6d9cb6bc)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:849 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:20 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:86 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (22caf5db5bd773015b08967a6d9cb6bc)] -> id: input-sort]
+2023-12-19 22:12:530 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (0dd91291d5b6eb46245032e412662a48)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:149 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:299 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:838 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (0dd91291d5b6eb46245032e412662a48)] -> id: input-sort]
+2023-12-19 22:12:10 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (0bcffdbfe2c4ec3994396e9e22cc2ab0)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 22:12:547 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:714 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:490 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (0bcffdbfe2c4ec3994396e9e22cc2ab0)] -> id: input-sort]
+2023-12-19 22:12:336 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-19 22:12:989 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-19 22:12:228 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-19 22:12:662 INFO  LoginPage :65 - Getting text Returning Customer” 
+2023-12-19 22:12:723 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-19 22:12:121 INFO  LoginPage :96 - Enter emailIdmagnussmith123@gmail.comto email[[ChromeDriver: chrome on windows (8283351de6b4abf11578d093cb62722c)] -> id: input-email]
+2023-12-19 22:12:171 INFO  LoginPage :101 - Enter  passwordFieldsmith123456to password[[ChromeDriver: chrome on windows (8283351de6b4abf11578d093cb62722c)] -> id: input-password]
+2023-12-19 22:12:204 INFO  LoginPage :70 - Clicking on login button.
+2023-12-19 22:12:99 INFO  LoginPage :75 - Getting text My account
+2023-12-19 22:12:113 INFO  LoginPage :53 - Selecting my account optionsLogout
+2023-12-19 22:12:733 INFO  LoginPage :85 - Getting the text account logout
+2023-12-19 22:12:756 INFO  LoginPage :90 - Clicking on continue link.
+2023-12-19 22:12:281 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-19 22:12:420 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-19 22:12:375 INFO  HomePage :92 - Getting text from: [[ChromeDriver: chrome on windows (782a8dd34d52091d87c4b3b8baa6aadd)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-19 22:12:443 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-19 22:12:589 INFO  HomePage :72 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-12-19 22:12:175 INFO  HomePage :102 - Getting text from: [[ChromeDriver: chrome on windows (929c4918455df4d97f27626b0d440953)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-19 22:12:231 INFO  HomePage :107 - mouse hover on componentsLink and click.
+2023-12-19 22:12:389 INFO  HomePage :72 - Selecting a topMenu: Show AllComponents
+2023-12-19 22:12:919 INFO  HomePage :112 - Getting text from: [[ChromeDriver: chrome on windows (fa35ce6416d993882117b7ad2636a58e)] -> xpath: //h2[contains(text(),'Components')]]

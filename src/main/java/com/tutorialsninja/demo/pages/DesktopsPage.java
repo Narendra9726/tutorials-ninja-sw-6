@@ -90,7 +90,7 @@ public class DesktopsPage extends Utility {
     WebElement currency;
 
     @CacheLookup
-    @FindBy(xpath ="//button[normalize-space()='£Pound Sterling']" )
+    @FindBy(xpath = "//button[normalize-space()='£Pound Sterling']")
     WebElement poundSterling;
 
     @CacheLookup
@@ -103,39 +103,41 @@ public class DesktopsPage extends Utility {
 
     @CacheLookup
     @FindBy(css = "div.container:nth-child(4) div.row div.col-sm-9 div.row:nth-child(6) div.col-md-4.col-xs-6:nth-child(3) div.form-group.input-group.input-group-sm select.form-control > option:nth-child(4)")
-    List<WebElement>priceList;
+    List<WebElement> priceList;
 
-    public void clickOnCurrency(){
+    public void clickOnCurrency() {
         clickOnElement(currency);
     }
+
     public void clickOnPoundSterling() {
         log.info("Click On poundSterling" + poundSterling);
         clickOnElement(poundSterling);
     }
 
-    public void verifyProduct(String name){
-        for (WebElement product : productList){
-            if(product.getText().contains(name)){
-                selectByVisibleTextFromDropDown(product,name);
+    public void verifyProduct(String name) {
+        for (WebElement product : productList) {
+            if (product.getText().contains(name)) {
+                selectByVisibleTextFromDropDown(product, name);
                 break;
             }
         }
     }
-    public void verifyModelList(String name){
-        for (WebElement model : modelList){
-            if (model.getText().contains(name)){
-                selectByVisibleTextFromDropDown(model,name);
-            }
-        }
-    }
-    public void verifyPriceList(String number){
-        for (WebElement price : priceList){
-            if (price.getText().contains(number)){
-                selectByVisibleTextFromDropDown(price,number);
+
+    public void verifyModelList(String name) {
+        for (WebElement model : modelList) {
+            if (model.getText().contains(name)) {
+                selectByVisibleTextFromDropDown(model, name);
             }
         }
     }
 
+    public void verifyPriceList(String number) {
+        for (WebElement price : priceList) {
+            if (price.getText().contains(number)) {
+                selectByVisibleTextFromDropDown(price, number);
+            }
+        }
+    }
 
 
     public String getShoppingCartText() {
